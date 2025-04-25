@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\OrderAPi_Presentation.props" />
+</Project>

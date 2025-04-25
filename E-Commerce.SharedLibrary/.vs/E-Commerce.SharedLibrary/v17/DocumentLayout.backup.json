@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\E-Commerce Microservices Project\\E-Commerce.SharedLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89C25A06-F36C-483E-A006-CBDD89CF957D}|E-Commerce.SharedLibrary\\E-Commerce.SharedLibrary.csproj|g:\\e-commerce microservices project\\e-commerce.sharedlibrary\\e-commerce.sharedlibrary\\dependency injection\\sharedservicescontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C25A06-F36C-483E-A006-CBDD89CF957D}|E-Commerce.SharedLibrary\\E-Commerce.SharedLibrary.csproj|solutionrelative:e-commerce.sharedlibrary\\dependency injection\\sharedservicescontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C25A06-F36C-483E-A006-CBDD89CF957D}|E-Commerce.SharedLibrary\\E-Commerce.SharedLibrary.csproj|g:\\e-commerce microservices project\\e-commerce.sharedlibrary\\e-commerce.sharedlibrary\\dependency injection\\jwtauthenticationscheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C25A06-F36C-483E-A006-CBDD89CF957D}|E-Commerce.SharedLibrary\\E-Commerce.SharedLibrary.csproj|solutionrelative:e-commerce.sharedlibrary\\dependency injection\\jwtauthenticationscheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C25A06-F36C-483E-A006-CBDD89CF957D}|E-Commerce.SharedLibrary\\E-Commerce.SharedLibrary.csproj|g:\\e-commerce microservices project\\e-commerce.sharedlibrary\\e-commerce.sharedlibrary\\responses\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C25A06-F36C-483E-A006-CBDD89CF957D}|E-Commerce.SharedLibrary\\E-Commerce.SharedLibrary.csproj|solutionrelative:e-commerce.sharedlibrary\\responses\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C25A06-F36C-483E-A006-CBDD89CF957D}|E-Commerce.SharedLibrary\\E-Commerce.SharedLibrary.csproj|g:\\e-commerce microservices project\\e-commerce.sharedlibrary\\e-commerce.sharedlibrary\\middleware\\listentoonlyapigateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C25A06-F36C-483E-A006-CBDD89CF957D}|E-Commerce.SharedLibrary\\E-Commerce.SharedLibrary.csproj|solutionrelative:e-commerce.sharedlibrary\\middleware\\listentoonlyapigateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C25A06-F36C-483E-A006-CBDD89CF957D}|E-Commerce.SharedLibrary\\E-Commerce.SharedLibrary.csproj|g:\\e-commerce microservices project\\e-commerce.sharedlibrary\\e-commerce.sharedlibrary\\middleware\\globalexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C25A06-F36C-483E-A006-CBDD89CF957D}|E-Commerce.SharedLibrary\\E-Commerce.SharedLibrary.csproj|solutionrelative:e-commerce.sharedlibrary\\middleware\\globalexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C25A06-F36C-483E-A006-CBDD89CF957D}|E-Commerce.SharedLibrary\\E-Commerce.SharedLibrary.csproj|g:\\e-commerce microservices project\\e-commerce.sharedlibrary\\e-commerce.sharedlibrary\\interface\\igenericinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C25A06-F36C-483E-A006-CBDD89CF957D}|E-Commerce.SharedLibrary\\E-Commerce.SharedLibrary.csproj|solutionrelative:e-commerce.sharedlibrary\\interface\\igenericinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C25A06-F36C-483E-A006-CBDD89CF957D}|E-Commerce.SharedLibrary\\E-Commerce.SharedLibrary.csproj|g:\\e-commerce microservices project\\e-commerce.sharedlibrary\\e-commerce.sharedlibrary\\logs\\logexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C25A06-F36C-483E-A006-CBDD89CF957D}|E-Commerce.SharedLibrary\\E-Commerce.SharedLibrary.csproj|solutionrelative:e-commerce.sharedlibrary\\logs\\logexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SharedServicesContainer.cs",
+              "DocumentMoniker": "G:\\E-Commerce Microservices Project\\E-Commerce.SharedLibrary\\E-Commerce.SharedLibrary\\Dependency Injection\\SharedServicesContainer.cs",
+              "RelativeDocumentMoniker": "E-Commerce.SharedLibrary\\Dependency Injection\\SharedServicesContainer.cs",
+              "ToolTip": "G:\\E-Commerce Microservices Project\\E-Commerce.SharedLibrary\\E-Commerce.SharedLibrary\\Dependency Injection\\SharedServicesContainer.cs",
+              "RelativeToolTip": "E-Commerce.SharedLibrary\\Dependency Injection\\SharedServicesContainer.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwB4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T20:24:45.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JWTAuthenticationScheme.cs",
+              "DocumentMoniker": "G:\\E-Commerce Microservices Project\\E-Commerce.SharedLibrary\\E-Commerce.SharedLibrary\\Dependency Injection\\JWTAuthenticationScheme.cs",
+              "RelativeDocumentMoniker": "E-Commerce.SharedLibrary\\Dependency Injection\\JWTAuthenticationScheme.cs",
+              "ToolTip": "G:\\E-Commerce Microservices Project\\E-Commerce.SharedLibrary\\E-Commerce.SharedLibrary\\Dependency Injection\\JWTAuthenticationScheme.cs",
+              "RelativeToolTip": "E-Commerce.SharedLibrary\\Dependency Injection\\JWTAuthenticationScheme.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T20:14:13.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListenToOnlyApiGateway.cs",
+              "DocumentMoniker": "G:\\E-Commerce Microservices Project\\E-Commerce.SharedLibrary\\E-Commerce.SharedLibrary\\Middleware\\ListenToOnlyApiGateway.cs",
+              "RelativeDocumentMoniker": "E-Commerce.SharedLibrary\\Middleware\\ListenToOnlyApiGateway.cs",
+              "ToolTip": "G:\\E-Commerce Microservices Project\\E-Commerce.SharedLibrary\\E-Commerce.SharedLibrary\\Middleware\\ListenToOnlyApiGateway.cs",
+              "RelativeToolTip": "E-Commerce.SharedLibrary\\Middleware\\ListenToOnlyApiGateway.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T18:06:14.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GlobalException.cs",
+              "DocumentMoniker": "G:\\E-Commerce Microservices Project\\E-Commerce.SharedLibrary\\E-Commerce.SharedLibrary\\Middleware\\GlobalException.cs",
+              "RelativeDocumentMoniker": "E-Commerce.SharedLibrary\\Middleware\\GlobalException.cs",
+              "ToolTip": "G:\\E-Commerce Microservices Project\\E-Commerce.SharedLibrary\\E-Commerce.SharedLibrary\\Middleware\\GlobalException.cs",
+              "RelativeToolTip": "E-Commerce.SharedLibrary\\Middleware\\GlobalException.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T15:49:20.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IGenericInterface.cs",
+              "DocumentMoniker": "G:\\E-Commerce Microservices Project\\E-Commerce.SharedLibrary\\E-Commerce.SharedLibrary\\Interface\\IGenericInterface.cs",
+              "RelativeDocumentMoniker": "E-Commerce.SharedLibrary\\Interface\\IGenericInterface.cs",
+              "ToolTip": "G:\\E-Commerce Microservices Project\\E-Commerce.SharedLibrary\\E-Commerce.SharedLibrary\\Interface\\IGenericInterface.cs",
+              "RelativeToolTip": "E-Commerce.SharedLibrary\\Interface\\IGenericInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T15:40:54.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LogException.cs",
+              "DocumentMoniker": "G:\\E-Commerce Microservices Project\\E-Commerce.SharedLibrary\\E-Commerce.SharedLibrary\\Logs\\LogException.cs",
+              "RelativeDocumentMoniker": "E-Commerce.SharedLibrary\\Logs\\LogException.cs",
+              "ToolTip": "G:\\E-Commerce Microservices Project\\E-Commerce.SharedLibrary\\E-Commerce.SharedLibrary\\Logs\\LogException.cs",
+              "RelativeToolTip": "E-Commerce.SharedLibrary\\Logs\\LogException.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T15:30:45.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Response.cs",
+              "DocumentMoniker": "G:\\E-Commerce Microservices Project\\E-Commerce.SharedLibrary\\E-Commerce.SharedLibrary\\Responses\\Response.cs",
+              "RelativeDocumentMoniker": "E-Commerce.SharedLibrary\\Responses\\Response.cs",
+              "ToolTip": "G:\\E-Commerce Microservices Project\\E-Commerce.SharedLibrary\\E-Commerce.SharedLibrary\\Responses\\Response.cs",
+              "RelativeToolTip": "E-Commerce.SharedLibrary\\Responses\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T15:25:51.707Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

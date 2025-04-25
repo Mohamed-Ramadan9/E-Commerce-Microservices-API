@@ -1,0 +1,11 @@
+G:\E-Commerce Microservices Project\ProductAPISolution\ProductApiDomain\bin\Debug\net8.0\ProductApiDomain.deps.json
+G:\E-Commerce Microservices Project\ProductAPISolution\ProductApiDomain\bin\Debug\net8.0\ProductApiDomain.dll
+G:\E-Commerce Microservices Project\ProductAPISolution\ProductApiDomain\bin\Debug\net8.0\ProductApiDomain.pdb
+G:\E-Commerce Microservices Project\ProductAPISolution\ProductApiDomain\obj\Debug\net8.0\ProductApiDomain.GeneratedMSBuildEditorConfig.editorconfig
+G:\E-Commerce Microservices Project\ProductAPISolution\ProductApiDomain\obj\Debug\net8.0\ProductApiDomain.AssemblyInfoInputs.cache
+G:\E-Commerce Microservices Project\ProductAPISolution\ProductApiDomain\obj\Debug\net8.0\ProductApiDomain.AssemblyInfo.cs
+G:\E-Commerce Microservices Project\ProductAPISolution\ProductApiDomain\obj\Debug\net8.0\ProductApiDomain.csproj.CoreCompileInputs.cache
+G:\E-Commerce Microservices Project\ProductAPISolution\ProductApiDomain\obj\Debug\net8.0\ProductApiDomain.dll
+G:\E-Commerce Microservices Project\ProductAPISolution\ProductApiDomain\obj\Debug\net8.0\refint\ProductApiDomain.dll
+G:\E-Commerce Microservices Project\ProductAPISolution\ProductApiDomain\obj\Debug\net8.0\ProductApiDomain.pdb
+G:\E-Commerce Microservices Project\ProductAPISolution\ProductApiDomain\obj\Debug\net8.0\ref\ProductApiDomain.dll

@@ -1,0 +1,9 @@
+{
+    "Routes": [],
+    "GlobalConfiguration": {
+        "BaseUrl": "https://localhost:5003",
+        "RateLimitOptions": {
+            "QuotaExceededMessage" : "You are overwhelming server with multiple Requestes"
+        }
+    }
+}
