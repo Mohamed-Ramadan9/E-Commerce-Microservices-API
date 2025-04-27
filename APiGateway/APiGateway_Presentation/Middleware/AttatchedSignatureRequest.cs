@@ -1,11 +1,21 @@
-﻿namespace APiGateway_Presentation.Middleware
+﻿using Microsoft.AspNetCore.Http;
+using System.Threading.Tasks;
+
+namespace APiGateway_Presentation.Middleware
 {
-    public class AttatchedSignatureRequest(RequestDelegate next)
+    public class AttatchedSignatureRequest
     {
-        public async Task InvokedAsync(HttpContext context)
+        private readonly RequestDelegate _next;
+
+        public AttatchedSignatureRequest(RequestDelegate next)
+        {
+            _next = next;
+        }
+
+        public async Task InvokeAsync(HttpContext context)
         {
             context.Request.Headers["Api-Gateway"] = "Signed";
-            await next(context);
+            await _next(context);
         }
     }
 }

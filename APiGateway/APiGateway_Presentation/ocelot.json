@@ -6,8 +6,8 @@
             "DownstreamScheme": "http",
             "DownstreamHostAndPorts": [
                 {
-                    "Host": "5000",
-                    "Port": 5000
+                    "Host": "localhost",
+                    "Port": 5004
                 }
             ],
             "UpstreamPathTemplate": "/api/authentication/{everything}",

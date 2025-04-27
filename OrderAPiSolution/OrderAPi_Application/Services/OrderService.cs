@@ -33,7 +33,7 @@ namespace OrderAPi_Application.Services
         {
             // Call Product Api using HttpClient
             // Redirect this call to the Api Gateway since product Api is not response to outsiders
-            var getUser = await http.GetAsync($"/api/products/{userId}");
+            var getUser = await http.GetAsync($"/api/authentication/{userId}");
             if (!getUser.IsSuccessStatusCode)
                 return null;
             var user = await getUser.Content.ReadFromJsonAsync<AppUserDTO>();

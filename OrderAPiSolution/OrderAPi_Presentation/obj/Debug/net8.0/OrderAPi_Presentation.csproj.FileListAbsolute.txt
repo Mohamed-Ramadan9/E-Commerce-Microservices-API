@@ -27,7 +27,6 @@ G:\E-Commerce Microservices Project\OrderAPiSolution\OrderAPi_Presentation\obj\D
 G:\E-Commerce Microservices Project\OrderAPiSolution\OrderAPi_Presentation\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.OrderAPi_Presentation.props
 G:\E-Commerce Microservices Project\OrderAPiSolution\OrderAPi_Presentation\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.OrderAPi_Presentation.props
 G:\E-Commerce Microservices Project\OrderAPiSolution\OrderAPi_Presentation\obj\Debug\net8.0\staticwebassets.pack.json
-G:\E-Commerce Microservices Project\OrderAPiSolution\OrderAPi_Presentation\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 G:\E-Commerce Microservices Project\OrderAPiSolution\OrderAPi_Presentation\obj\Debug\net8.0\OrderAPi.70D78C01.Up2Date
 G:\E-Commerce Microservices Project\OrderAPiSolution\OrderAPi_Presentation\obj\Debug\net8.0\OrderAPi_Presentation.dll
 G:\E-Commerce Microservices Project\OrderAPiSolution\OrderAPi_Presentation\obj\Debug\net8.0\refint\OrderAPi_Presentation.dll
@@ -199,3 +198,4 @@ G:\E-Commerce Microservices Project\OrderAPiSolution\OrderAPi_Presentation\bin\D
 G:\E-Commerce Microservices Project\OrderAPiSolution\OrderAPi_Presentation\bin\Debug\net8.0\OrderAPi_Application.pdb
 G:\E-Commerce Microservices Project\OrderAPiSolution\OrderAPi_Presentation\bin\Debug\net8.0\OrderAPi_Domain.pdb
 G:\E-Commerce Microservices Project\OrderAPiSolution\OrderAPi_Presentation\bin\Debug\net8.0\AutoMapper.dll
+G:\E-Commerce Microservices Project\OrderAPiSolution\OrderAPi_Presentation\obj\Debug\net8.0\OrderAPi_Presentation.sourcelink.json

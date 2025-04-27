@@ -27,7 +27,6 @@ G:\E-Commerce Microservices Project\Authentication_API_Solution\AuthenticationAp
 G:\E-Commerce Microservices Project\Authentication_API_Solution\AuthenticationApi_Presentation\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AuthenticationApi_Presentation.props
 G:\E-Commerce Microservices Project\Authentication_API_Solution\AuthenticationApi_Presentation\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AuthenticationApi_Presentation.props
 G:\E-Commerce Microservices Project\Authentication_API_Solution\AuthenticationApi_Presentation\obj\Debug\net8.0\staticwebassets.pack.json
-G:\E-Commerce Microservices Project\Authentication_API_Solution\AuthenticationApi_Presentation\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 G:\E-Commerce Microservices Project\Authentication_API_Solution\AuthenticationApi_Presentation\obj\Debug\net8.0\Authenti.88572357.Up2Date
 G:\E-Commerce Microservices Project\Authentication_API_Solution\AuthenticationApi_Presentation\obj\Debug\net8.0\AuthenticationApi_Presentation.dll
 G:\E-Commerce Microservices Project\Authentication_API_Solution\AuthenticationApi_Presentation\obj\Debug\net8.0\refint\AuthenticationApi_Presentation.dll
@@ -194,3 +193,4 @@ G:\E-Commerce Microservices Project\Authentication_API_Solution\AuthenticationAp
 G:\E-Commerce Microservices Project\Authentication_API_Solution\AuthenticationApi_Presentation\bin\Debug\net8.0\AutoMapper.dll
 G:\E-Commerce Microservices Project\Authentication_API_Solution\AuthenticationApi_Presentation\bin\Debug\net8.0\AuthenticationApi_Domain.dll
 G:\E-Commerce Microservices Project\Authentication_API_Solution\AuthenticationApi_Presentation\bin\Debug\net8.0\AuthenticationApi_Domain.pdb
+G:\E-Commerce Microservices Project\Authentication_API_Solution\AuthenticationApi_Presentation\obj\Debug\net8.0\AuthenticationApi_Presentation.sourcelink.json

@@ -9,3 +9,4 @@ G:\E-Commerce Microservices Project\Authentication_API_Solution\AuthenticationAp
 G:\E-Commerce Microservices Project\Authentication_API_Solution\AuthenticationApi_Domain\obj\Debug\net8.0\refint\AuthenticationApi_Domain.dll
 G:\E-Commerce Microservices Project\Authentication_API_Solution\AuthenticationApi_Domain\obj\Debug\net8.0\AuthenticationApi_Domain.pdb
 G:\E-Commerce Microservices Project\Authentication_API_Solution\AuthenticationApi_Domain\obj\Debug\net8.0\ref\AuthenticationApi_Domain.dll
+G:\E-Commerce Microservices Project\Authentication_API_Solution\AuthenticationApi_Domain\obj\Debug\net8.0\AuthenticationApi_Domain.sourcelink.json

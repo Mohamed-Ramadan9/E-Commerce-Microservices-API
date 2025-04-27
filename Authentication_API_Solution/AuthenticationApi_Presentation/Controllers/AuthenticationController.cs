@@ -2,6 +2,7 @@
 using AuthenticationApi_Application.Interfaces;
 using AuthenticationApi_Domain.Entites;
 using E_Commerce.SharedLibrary.Responses;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
@@ -10,6 +11,7 @@ namespace AuthenticationApi_Presentation.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [AllowAnonymous]
     public class AuthenticationController(IUser user_repo) : ControllerBase
     {
         [HttpPost("register")]
@@ -34,8 +36,9 @@ namespace AuthenticationApi_Presentation.Controllers
             } 
             return BadRequest(ModelState);
         }
-
+        
         [HttpGet("{id:int}")]
+        [Authorize]
         public async Task<ActionResult<GetUserDTO>> GetUser(int id)
         {
             if (id == 0) return BadRequest("Invalid user id");

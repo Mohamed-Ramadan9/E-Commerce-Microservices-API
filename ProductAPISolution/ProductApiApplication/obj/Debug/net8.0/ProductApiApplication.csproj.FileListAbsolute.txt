@@ -15,3 +15,4 @@ G:\E-Commerce Microservices Project\ProductAPISolution\ProductApiApplication\bin
 G:\E-Commerce Microservices Project\ProductAPISolution\ProductApiApplication\bin\Debug\net8.0\ProductApiDomain.pdb
 G:\E-Commerce Microservices Project\ProductAPISolution\ProductApiApplication\obj\Debug\net8.0\ProductApiApplication.csproj.AssemblyReference.cache
 G:\E-Commerce Microservices Project\ProductAPISolution\ProductApiApplication\obj\Debug\net8.0\ProductA.85FA13A4.Up2Date
+G:\E-Commerce Microservices Project\ProductAPISolution\ProductApiApplication\obj\Debug\net8.0\ProductApiApplication.sourcelink.json

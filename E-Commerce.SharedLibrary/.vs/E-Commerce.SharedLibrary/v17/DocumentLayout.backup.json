@@ -48,7 +48,7 @@
               "RelativeDocumentMoniker": "E-Commerce.SharedLibrary\\Dependency Injection\\SharedServicesContainer.cs",
               "ToolTip": "G:\\E-Commerce Microservices Project\\E-Commerce.SharedLibrary\\E-Commerce.SharedLibrary\\Dependency Injection\\SharedServicesContainer.cs",
               "RelativeToolTip": "E-Commerce.SharedLibrary\\Dependency Injection\\SharedServicesContainer.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAgwB4AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwDYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-20T20:24:45.338Z",
               "EditorCaption": ""
@@ -63,8 +63,7 @@
               "RelativeToolTip": "E-Commerce.SharedLibrary\\Dependency Injection\\JWTAuthenticationScheme.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAUwCoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T20:14:13.43Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-20T20:14:13.43Z"
             },
             {
               "$type": "Document",
@@ -76,8 +75,7 @@
               "RelativeToolTip": "E-Commerce.SharedLibrary\\Middleware\\ListenToOnlyApiGateway.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T18:06:14.678Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-20T18:06:14.678Z"
             },
             {
               "$type": "Document",
@@ -125,8 +123,7 @@
               "RelativeToolTip": "E-Commerce.SharedLibrary\\Responses\\Response.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T15:25:51.707Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-20T15:25:51.707Z"
             }
           ]
         }

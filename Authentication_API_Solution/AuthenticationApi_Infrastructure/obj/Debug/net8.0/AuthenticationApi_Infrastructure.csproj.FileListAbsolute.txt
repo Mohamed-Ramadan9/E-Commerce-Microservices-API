@@ -19,3 +19,4 @@ G:\E-Commerce Microservices Project\Authentication_API_Solution\AuthenticationAp
 G:\E-Commerce Microservices Project\Authentication_API_Solution\AuthenticationApi_Infrastructure\bin\Debug\net8.0\AuthenticationApi_Domain.pdb
 G:\E-Commerce Microservices Project\Authentication_API_Solution\AuthenticationApi_Infrastructure\bin\Debug\net8.0\AuthenticationApi_Infrastructure.runtimeconfig.json
 G:\E-Commerce Microservices Project\Authentication_API_Solution\AuthenticationApi_Infrastructure\obj\Debug\net8.0\AuthenticationApi_Infrastructure.genruntimeconfig.cache
+G:\E-Commerce Microservices Project\Authentication_API_Solution\AuthenticationApi_Infrastructure\obj\Debug\net8.0\AuthenticationApi_Infrastructure.sourcelink.json

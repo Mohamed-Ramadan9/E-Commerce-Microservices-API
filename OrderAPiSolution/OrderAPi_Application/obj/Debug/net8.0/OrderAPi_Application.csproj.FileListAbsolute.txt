@@ -15,3 +15,4 @@ G:\E-Commerce Microservices Project\OrderAPiSolution\OrderAPi_Application\bin\De
 G:\E-Commerce Microservices Project\OrderAPiSolution\OrderAPi_Application\bin\Debug\net8.0\OrderAPi_Domain.pdb
 G:\E-Commerce Microservices Project\OrderAPiSolution\OrderAPi_Application\obj\Debug\net8.0\OrderAPi_Application.csproj.AssemblyReference.cache
 G:\E-Commerce Microservices Project\OrderAPiSolution\OrderAPi_Application\obj\Debug\net8.0\OrderAPi.679324C1.Up2Date
+G:\E-Commerce Microservices Project\OrderAPiSolution\OrderAPi_Application\obj\Debug\net8.0\OrderAPi_Application.sourcelink.json

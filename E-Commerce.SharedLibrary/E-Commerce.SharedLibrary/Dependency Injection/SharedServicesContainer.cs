@@ -52,7 +52,7 @@ namespace E_Commerce.SharedLibrary.Dependency_Injection
             app.UseMiddleware<GlobalException>();
             
             // Register Middleware to block outsider API calls
-            //app.UseMiddleware<ListenToOnlyApiGateway>();
+            app.UseMiddleware<ListenToOnlyApiGateway>();
 
             return app;
 

@@ -191,4 +191,4 @@ G:\E-Commerce Microservices Project\ProductAPISolution\Product_Api_Presentation\
 G:\E-Commerce Microservices Project\ProductAPISolution\Product_Api_Presentation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 G:\E-Commerce Microservices Project\ProductAPISolution\Product_Api_Presentation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 G:\E-Commerce Microservices Project\ProductAPISolution\Product_Api_Presentation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-G:\E-Commerce Microservices Project\ProductAPISolution\Product_Api_Presentation\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+G:\E-Commerce Microservices Project\ProductAPISolution\Product_Api_Presentation\obj\Debug\net8.0\Product_Api_Presentation.sourcelink.json

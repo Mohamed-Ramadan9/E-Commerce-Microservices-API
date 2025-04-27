@@ -19,3 +19,4 @@ G:\E-Commerce Microservices Project\ProductAPISolution\ProductApi_Infrastructure
 G:\E-Commerce Microservices Project\ProductAPISolution\ProductApi_Infrastructure\obj\Debug\net8.0\ProductA.52DB6195.Up2Date
 G:\E-Commerce Microservices Project\ProductAPISolution\ProductApi_Infrastructure\bin\Debug\net8.0\ProductApi_Infrastructure.runtimeconfig.json
 G:\E-Commerce Microservices Project\ProductAPISolution\ProductApi_Infrastructure\obj\Debug\net8.0\ProductApi_Infrastructure.genruntimeconfig.cache
+G:\E-Commerce Microservices Project\ProductAPISolution\ProductApi_Infrastructure\obj\Debug\net8.0\ProductApi_Infrastructure.sourcelink.json

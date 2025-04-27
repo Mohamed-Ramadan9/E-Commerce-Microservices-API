@@ -19,3 +19,4 @@ G:\E-Commerce Microservices Project\OrderAPiSolution\OrderAPi_Infrastructure\obj
 G:\E-Commerce Microservices Project\OrderAPiSolution\OrderAPi_Infrastructure\obj\Debug\net8.0\OrderAPi.AB5D95DF.Up2Date
 G:\E-Commerce Microservices Project\OrderAPiSolution\OrderAPi_Infrastructure\bin\Debug\net8.0\OrderAPi_Infrastructure.runtimeconfig.json
 G:\E-Commerce Microservices Project\OrderAPiSolution\OrderAPi_Infrastructure\obj\Debug\net8.0\OrderAPi_Infrastructure.genruntimeconfig.cache
+G:\E-Commerce Microservices Project\OrderAPiSolution\OrderAPi_Infrastructure\obj\Debug\net8.0\OrderAPi_Infrastructure.sourcelink.json

@@ -15,3 +15,4 @@ G:\E-Commerce Microservices Project\Authentication_API_Solution\AuthenticationAp
 G:\E-Commerce Microservices Project\Authentication_API_Solution\AuthenticationApi_Application\obj\Debug\net8.0\Authenti.2AD31DDA.Up2Date
 G:\E-Commerce Microservices Project\Authentication_API_Solution\AuthenticationApi_Application\bin\Debug\net8.0\AuthenticationApi_Domain.dll
 G:\E-Commerce Microservices Project\Authentication_API_Solution\AuthenticationApi_Application\bin\Debug\net8.0\AuthenticationApi_Domain.pdb
+G:\E-Commerce Microservices Project\Authentication_API_Solution\AuthenticationApi_Application\obj\Debug\net8.0\AuthenticationApi_Application.sourcelink.json

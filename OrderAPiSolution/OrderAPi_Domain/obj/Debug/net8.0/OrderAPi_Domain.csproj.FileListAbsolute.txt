@@ -9,3 +9,4 @@ G:\E-Commerce Microservices Project\OrderAPiSolution\OrderAPi_Domain\obj\Debug\n
 G:\E-Commerce Microservices Project\OrderAPiSolution\OrderAPi_Domain\obj\Debug\net8.0\refint\OrderAPi_Domain.dll
 G:\E-Commerce Microservices Project\OrderAPiSolution\OrderAPi_Domain\obj\Debug\net8.0\OrderAPi_Domain.pdb
 G:\E-Commerce Microservices Project\OrderAPiSolution\OrderAPi_Domain\obj\Debug\net8.0\ref\OrderAPi_Domain.dll
+G:\E-Commerce Microservices Project\OrderAPiSolution\OrderAPi_Domain\obj\Debug\net8.0\OrderAPi_Domain.sourcelink.json

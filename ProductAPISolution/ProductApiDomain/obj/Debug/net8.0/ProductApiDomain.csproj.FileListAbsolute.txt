@@ -9,3 +9,4 @@ G:\E-Commerce Microservices Project\ProductAPISolution\ProductApiDomain\obj\Debu
 G:\E-Commerce Microservices Project\ProductAPISolution\ProductApiDomain\obj\Debug\net8.0\refint\ProductApiDomain.dll
 G:\E-Commerce Microservices Project\ProductAPISolution\ProductApiDomain\obj\Debug\net8.0\ProductApiDomain.pdb
 G:\E-Commerce Microservices Project\ProductAPISolution\ProductApiDomain\obj\Debug\net8.0\ref\ProductApiDomain.dll
+G:\E-Commerce Microservices Project\ProductAPISolution\ProductApiDomain\obj\Debug\net8.0\ProductApiDomain.sourcelink.json

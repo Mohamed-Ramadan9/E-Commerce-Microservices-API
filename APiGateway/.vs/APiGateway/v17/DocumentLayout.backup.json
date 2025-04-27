@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "G:\\E-Commerce Microservices Project\\APiGateway\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A1433A5A-C0D4-4EDF-9333-C3D83F1DBCC4}|APiGateway_Presentation\\APiGateway_Presentation.csproj|g:\\e-commerce microservices project\\apigateway\\apigateway_presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1433A5A-C0D4-4EDF-9333-C3D83F1DBCC4}|APiGateway_Presentation\\APiGateway_Presentation.csproj|solutionrelative:apigateway_presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1433A5A-C0D4-4EDF-9333-C3D83F1DBCC4}|APiGateway_Presentation\\APiGateway_Presentation.csproj|g:\\e-commerce microservices project\\apigateway\\apigateway_presentation\\middleware\\attatchedsignaturerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1433A5A-C0D4-4EDF-9333-C3D83F1DBCC4}|APiGateway_Presentation\\APiGateway_Presentation.csproj|solutionrelative:apigateway_presentation\\middleware\\attatchedsignaturerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A1433A5A-C0D4-4EDF-9333-C3D83F1DBCC4}|APiGateway_Presentation\\APiGateway_Presentation.csproj|g:\\e-commerce microservices project\\apigateway\\apigateway_presentation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A1433A5A-C0D4-4EDF-9333-C3D83F1DBCC4}|APiGateway_Presentation\\APiGateway_Presentation.csproj|solutionrelative:apigateway_presentation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A1433A5A-C0D4-4EDF-9333-C3D83F1DBCC4}|APiGateway_Presentation\\APiGateway_Presentation.csproj|g:\\e-commerce microservices project\\apigateway\\apigateway_presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1433A5A-C0D4-4EDF-9333-C3D83F1DBCC4}|APiGateway_Presentation\\APiGateway_Presentation.csproj|solutionrelative:apigateway_presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A1433A5A-C0D4-4EDF-9333-C3D83F1DBCC4}|APiGateway_Presentation\\APiGateway_Presentation.csproj|g:\\e-commerce microservices project\\apigateway\\apigateway_presentation\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A1433A5A-C0D4-4EDF-9333-C3D83F1DBCC4}|APiGateway_Presentation\\APiGateway_Presentation.csproj|solutionrelative:apigateway_presentation\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1433A5A-C0D4-4EDF-9333-C3D83F1DBCC4}|APiGateway_Presentation\\APiGateway_Presentation.csproj|g:\\e-commerce microservices project\\apigateway\\apigateway_presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1433A5A-C0D4-4EDF-9333-C3D83F1DBCC4}|APiGateway_Presentation\\APiGateway_Presentation.csproj|solutionrelative:apigateway_presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{29EE4E5B-484C-46F9-90EB-04FF1E3881EB}|..\\E-Commerce.SharedLibrary\\E-Commerce.SharedLibrary\\E-Commerce.SharedLibrary.csproj|g:\\e-commerce microservices project\\e-commerce.sharedlibrary\\e-commerce.sharedlibrary\\middleware\\listentoonlyapigateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -29,19 +29,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "G:\\E-Commerce Microservices Project\\APiGateway\\APiGateway_Presentation\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "APiGateway_Presentation\\Properties\\launchSettings.json",
+              "ToolTip": "G:\\E-Commerce Microservices Project\\APiGateway\\APiGateway_Presentation\\Properties\\launchSettings.json",
+              "RelativeToolTip": "APiGateway_Presentation\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-27T16:31:50.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ocelot.json",
+              "DocumentMoniker": "G:\\E-Commerce Microservices Project\\APiGateway\\APiGateway_Presentation\\ocelot.json",
+              "RelativeDocumentMoniker": "APiGateway_Presentation\\ocelot.json",
+              "ToolTip": "G:\\E-Commerce Microservices Project\\APiGateway\\APiGateway_Presentation\\ocelot.json",
+              "RelativeToolTip": "APiGateway_Presentation\\ocelot.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-27T16:01:07.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AttatchedSignatureRequest.cs",
-              "DocumentMoniker": "G:\\E-Commerce Microservices Project\\APiGateway\\APiGateway_Presentation\\Middleware\\AttatchedSignatureRequest.cs",
-              "RelativeDocumentMoniker": "APiGateway_Presentation\\Middleware\\AttatchedSignatureRequest.cs",
-              "ToolTip": "G:\\E-Commerce Microservices Project\\APiGateway\\APiGateway_Presentation\\Middleware\\AttatchedSignatureRequest.cs",
-              "RelativeToolTip": "APiGateway_Presentation\\Middleware\\AttatchedSignatureRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T20:54:17.966Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "G:\\E-Commerce Microservices Project\\APiGateway\\APiGateway_Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "APiGateway_Presentation\\appsettings.json",
+              "ToolTip": "G:\\E-Commerce Microservices Project\\APiGateway\\APiGateway_Presentation\\appsettings.json",
+              "RelativeToolTip": "APiGateway_Presentation\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-26T12:01:57.926Z",
               "EditorCaption": ""
             },
             {
@@ -54,47 +80,19 @@
               "RelativeToolTip": "..\\E-Commerce.SharedLibrary\\E-Commerce.SharedLibrary\\Middleware\\ListenToOnlyApiGateway.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T20:53:24.649Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T20:53:24.649Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ocelot.json",
-              "DocumentMoniker": "G:\\E-Commerce Microservices Project\\APiGateway\\APiGateway_Presentation\\ocelot.json",
-              "RelativeDocumentMoniker": "APiGateway_Presentation\\ocelot.json",
-              "ToolTip": "G:\\E-Commerce Microservices Project\\APiGateway\\APiGateway_Presentation\\ocelot.json",
-              "RelativeToolTip": "APiGateway_Presentation\\ocelot.json",
-              "ViewState": "AgIAAIMAAAAAAAAAAAAqwJgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-24T19:50:36.605Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "G:\\E-Commerce Microservices Project\\APiGateway\\APiGateway_Presentation\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "APiGateway_Presentation\\Properties\\launchSettings.json",
-              "ToolTip": "G:\\E-Commerce Microservices Project\\APiGateway\\APiGateway_Presentation\\Properties\\launchSettings.json",
-              "RelativeToolTip": "APiGateway_Presentation\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-24T19:48:39.197Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "G:\\E-Commerce Microservices Project\\APiGateway\\APiGateway_Presentation\\Program.cs",
               "RelativeDocumentMoniker": "APiGateway_Presentation\\Program.cs",
               "ToolTip": "G:\\E-Commerce Microservices Project\\APiGateway\\APiGateway_Presentation\\Program.cs",
               "RelativeToolTip": "APiGateway_Presentation\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAgwB8AAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T19:33:11.109Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T19:33:11.109Z"
             }
           ]
         }
