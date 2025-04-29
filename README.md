@@ -29,11 +29,10 @@ This project is a fully functional **E-commerce backend** built using **.NET mic
 - **ASP.NET Core 8.0**
 - **Entity Framework Core**
 - **JWT Authentication**
-- **API Gateway (YARP or Ocelot)**
+- **API Gateway (Ocelot)**
 - **Polly (Resilience and Retry Policies)**
 - **Caching (In-Memory / Redis)**
 - **Rate Limiting (Middleware or Gateway)**
-- **Docker** (Optional for containerization)
 - **Swagger/OpenAPI**
 
 ---
@@ -46,7 +45,7 @@ This project is a fully functional **E-commerce backend** built using **.NET mic
   Authentication_API_Solution
   ProductAPISolution
   OrderAPiSolution
-  E-Commerce.SharedLibrary 
+  E-Commerce.SharedLibrary
 ```
 
 Each service follows a **Clean Architecture** approach with:
@@ -55,6 +54,8 @@ Each service follows a **Clean Architecture** approach with:
 - `Application` (Business Rules, Interfaces)
 - `Infrastructure` (Database, External Services)
 - `Presentation/API` (Controllers, DTOs)
+
+
 
 ---
 
@@ -71,7 +72,7 @@ Each service follows a **Clean Architecture** approach with:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Mohamed-Ramadan9/ecommerce-microservices.git
+git clone https://github.com/Mohamed-Ramadan9/E-Commerce-Microservices.git
 cd ecommerce-microservices
 ```
 
@@ -85,7 +86,7 @@ cd ecommerce-microservices
 You can start each service individually or use Docker (if configured).
 
 ```bash
-cd src/ProductApi
+cd ProductApi
 dotnet run
 ```
 
@@ -93,11 +94,11 @@ Repeat for other services.
 
 ### 4. Access Swagger Docs
 
--Each API exposes Swagger UI at:
+Each API exposes Swagger UI at:
 
--http://localhost:{port}/swagger
+- `http://localhost:{port}/swagger`
 
--Note: If you want to test an API independently using Swagger, make sure to remove the line app.UseMiddleware<ListenToOnlyApiGateway>(); located in namespace E_Commerce.SharedLibrary.Dependency_Injection in static class SharedServicesContainer 
+> **Note:** If you want to test an API independently using Swagger, make sure to remove the line `app.UseMiddleware<ListenToOnlyApiGateway>();` located in `namespace E_Commerce.SharedLibrary.Dependency_Injection { public static class SharedServicesContainer }`
 
 ---
 
@@ -114,11 +115,12 @@ Repeat for other services.
 
 ## 🤝 Contributing
 
-  Pull requests are welcome. For major changes, open an issue first to discuss what you’d like to change.
+Pull requests are welcome. For major changes, open an issue first to discuss what you’d like to change.
 
 ---
 
 ## 📝 License
 
 This project is licensed under the MIT License.
+
 
