@@ -1,0 +1,86 @@
+
+########################################
+#     .NET & Visual Studio Projects    #
+########################################
+
+## Build Folders ##
+bin/
+obj/
+out/
+
+## User-specific Files ##
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.csproj.user
+
+## Auto-generated files ##
+Generated_Code/
+*.g.cs
+*.g.i.cs
+
+## IDE Files ##
+.vscode/
+.vs/
+.idea/
+
+## Logs and debug ##
+*.log
+*.tlog
+*.vsp
+*.pdb
+*.cache
+*.dbmdl
+
+## Configuration ##
+appsettings.Development.json
+appsettings.*.json
+secrets.json
+*.launchSettings.json
+
+## OS/System Files ##
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+## NuGet ##
+*.nupkg
+packages/
+.nuget/
+
+## Others ##
+TestResults/
+node_modules/
+wwwroot/lib/
+libman.json
+*.tsbuildinfo
+
+## Rider ##
+.idea/
+
+########################################
+#       Git Configuration Files        #
+########################################
+*.orig
+*.rej
+
+########################################
+#      Ignore Docker Local Files       #
+########################################
+**/docker-compose.override.yml
+**/.env
+
+########################################
+#      Ignore API Gateway Specific     #
+########################################
+APIGateway/bin/
+APIGateway/obj/
+APIGateway/.vs/
+
+########################################
+#     Optional: Ignore Local Tools     #
+########################################
+tools/
+*.ToolManifest.xml
